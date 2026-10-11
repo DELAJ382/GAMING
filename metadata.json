@@ -1,0 +1,6 @@
+{
+  "name": "DelajBet",
+  "description": "Premium sports betting platform with live match streaming, instant score alerts, deposits, withdrawals, peer transfers, and multi-factor authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
